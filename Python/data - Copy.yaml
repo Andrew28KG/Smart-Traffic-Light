@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Colab Notebooks/Nico_IOT/yolo_dataset
+train: /content/drive/MyDrive/Colab Notebooks/Nico_IOT/yolo_dataset/train/images
+val: /content/drive/MyDrive/Colab Notebooks/Nico_IOT/yolo_dataset/val/images
+test: /content/drive/MyDrive/Colab Notebooks/Nico_IOT/yolo_dataset/test/images
+
+nc: 4
+names: ['Mobil', 'Motor', 'Truck', 'Bus']
